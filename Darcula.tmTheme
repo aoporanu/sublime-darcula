@@ -36,6 +36,8 @@
 			<dict>
 				<key>foreground</key>
 				<string>#629755</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -57,7 +59,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AE81FF</string>
+				<string>#6897BB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -68,7 +70,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AE81FF</string>
+				<string>#9876AA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -79,7 +81,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AE81FF</string>
+				<string>#9876AA</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -92,7 +96,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A9B7C6</string>
+				<string>#9876AA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -116,7 +120,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#CC7832</string>
 			</dict>
 		</dict>
 		<dict>
@@ -139,10 +143,8 @@
 			<string>entity.name.class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>underline</string>
 				<key>foreground</key>
-				<string>#FFC66D</string>
+				<string>#A9B7C6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -152,10 +154,8 @@
 			<string>entity.other.inherited-class</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#A9B7C6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -194,7 +194,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#F92672</string>
+				<string>#CC7832</string>
 			</dict>
 		</dict>
 		<dict>
@@ -259,7 +259,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A9B7C6</string>
+				<string>#9876AA</string>
 			</dict>
 		</dict>
 		<dict>
@@ -290,12 +290,27 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>PHPDoc Tag</string>
+			<key>scope</key>
+			<string>keyword.other.phpdoc.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string> italic underline</string>
+				<key>foreground</key>
+				<string>#629755</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
+	<string>theme.dark.darcula</string>
+	<key>author</key>
+	<string>Adi Oporanu</string>
 </dict>
 </plist>
