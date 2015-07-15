@@ -369,6 +369,116 @@
 				<string>#CC7832</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>scope</key>
+			<string>source.js support.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFC66D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>scope</key>
+			<string>source.js punctuation.terminator.statement.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CC7832</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>scope</key>
+			<string>source.js comment.block.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#808080</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>scope</key>
+			<string>source.js meta.class.instance.constructor entity.name.type.instance.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FFC66D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>scope</key>
+			<string>source.js string.quoted.double.js constant.character.escape.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CC7832</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>scope</key>
+			<string>text.xml meta.tag.xml entity.name.tag.localname.xml</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CC7832</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>scope</key>
+			<string>text.xml meta.tag.xml entity.other.attribute-name.localname.xml</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A9B7C6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>scope</key>
+			<string>text.xml meta.tag.xml string.quoted.double.xml</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A5C261</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>scope</key>
+			<string>text.xml comment.block.xml</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#808080</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>scope</key>
+			<string>text.xml string.unquoted.cdata.xml punctuation.definition.string.begin.xml</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A9B7C6</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
